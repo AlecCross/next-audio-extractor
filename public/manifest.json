@@ -1,7 +1,7 @@
 {
-  "short_name": "PW-Icons",
-  "name": "PW-Icons App",
-  "description": "A simple PWA for storing and converting icons.",
+  "short_name": "Audio Extractor",
+  "name": "Audio Extractor",
+  "description": "Get Audio fromVideo PWA",
   "version": "1.0",
   "start_url": "/",
   "display": "standalone",
